@@ -1,4 +1,7 @@
 const productos = [
+
+//subo una boludes
+
     {   id:1,
         imagen: "🍎",
         nombre: "Manzanas",
